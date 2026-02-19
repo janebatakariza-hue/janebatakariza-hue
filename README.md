@@ -26,7 +26,7 @@ Exploring best practices in full stack development
 
 🔥 Streak
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=react&hide_border=true&background=0D1117" />
+  <img src="https://streak-stats.demolab.com?user=janebatakariza-hue&theme=react&hide_border=true&background=0D1117" />
 </div>
 
 📫 Let's Connect
